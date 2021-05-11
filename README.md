@@ -1,1 +1,5 @@
-# myGitHubBio
+- 👨🏻‍💻 Hi, I’m Tony!
+- 🐲 I’m interested in coding, listening to lofi, golfing, and rolling some d20's.
+- 🌱 I’m currently learning @ App Academy
+- ✅  Knowledge in: Bootstrap, HTML5, CSS3, JavaScript, node.js, SQL, git, github, photoshop, premiere 
+- 💾  Soon to learn: Python, React, Ruby
