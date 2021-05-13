@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Currently learning Full Stack @ App Academy.
 - 💼 &nbsp; Currently full time learning @ App Academy.
 - 🌠 &nbsp; Thinking of the full stack app I cannot wait to start on.
-- ⛳ &nbsp; I’m love coding, listening to lofi, golfing, and rolling some d20's.
+- ⛳ &nbsp; I’m love coding, playing on my switch, listening to nintendo music, golfing, and rolling some d20's.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
