@@ -35,7 +35,7 @@
 
 <br/>
 
-<h3> 🤝 &nbsp;Let's get in touch </h3>
+<h3> 🤝 &nbsp;Let's get in touch! </h3>
 
 <p align="center">
 <a href="https://www.anthonycostanza.net/"><img alt="Website" src="https://img.shields.io/badge/My-Portfolio-Crimson?"></a>
