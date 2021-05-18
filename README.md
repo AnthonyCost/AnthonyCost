@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;A little about me ...</h3>
 
-- 🌞 &nbsp; At the moment I am expanding my understanding in postgres and sequelize!
+- 🌞 &nbsp; Currently exploring pug and express!
 - 🎓 &nbsp; Currently learning Full Stack @ App Academy.
 - 💼 &nbsp; Currently full time learning @ App Academy.
 - 🌠 &nbsp; Thinking of the full stack app I cannot wait to start on.
