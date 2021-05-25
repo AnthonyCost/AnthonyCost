@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;A little about me ...</h3>
 
-- 🌞 &nbsp; Currently beginning to start my first group project!
+- 🌞 &nbsp; Currently learning about encryption and using bysnc!
 - 🎓 &nbsp; Currently learning Full Stack @ App Academy.
 - 💼 &nbsp; Currently full time learning @ App Academy.
 - 🌠 &nbsp; Thinking of the full stack app I cannot wait to start on.
