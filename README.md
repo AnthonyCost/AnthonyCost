@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;A little about me ...</h3>
 
-- 🌞 &nbsp; Learning about thunks in Redux!
+- 🌞 &nbsp; Starting on my first solo project!
 - 🎓 &nbsp; Currently learning Full Stack @ App Academy.
 - 💼 &nbsp; Currently full time studying @ App Academy.
 - 🌠 &nbsp; Thinking of the full stack app I cannot wait to start on.
