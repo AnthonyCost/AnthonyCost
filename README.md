@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;A little about me ...</h3>
 
-- 🌞 &nbsp; Working on my second CRUD MVP for my first solo project!
+- 🌞 &nbsp; Starting to learn Python!
 - 🎓 &nbsp; Currently learning Full Stack @ App Academy.
 - 💼 &nbsp; Currently full time studying @ App Academy.
 - ⛳ &nbsp; I’m love coding, playing on my switch, listening to nintendo music, golfing, and rolling some d20's.
