@@ -5,7 +5,7 @@
 - 🌞 &nbsp; Starting to learn Python!
 - 🎓 &nbsp; Currently learning Full Stack @ App Academy.
 - 💼 &nbsp; Currently full time studying @ App Academy.
-- ⛳ &nbsp; I’m love coding, playing on my switch, listening to nintendo music, golfing, and rolling some d20's.
+- ⛳ &nbsp; I love coding, playing on my switch, listening to nintendo music, golfing, and rolling some d20's.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
