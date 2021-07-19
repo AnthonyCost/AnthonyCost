@@ -7,8 +7,6 @@
 - 💼 &nbsp; Currently full time studying @ App Academy.
 - ⛳ &nbsp; I love coding, playing on my switch, listening to nintendo music, golfing, and rolling some d20's.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
 <h3> :dove: &nbsp;Let's Connect: </h3>
 
 <p align="center">
@@ -17,6 +15,8 @@
 <a href="https://angel.co/u/anthony-costanza-1"><img alt="Angellist" src="https://img.shields.io/badge/AngelList-Anthony%20Costanza-crimson"></a>
   <a href="https://github.com/AnthonyCost"><img alt="GitHub" src="https://img.shields.io/github/followers/AnthonyCost.svg?style=social&label=Follow&maxAge=2592000"></a>
 </p>	
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp; <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
 - 🌐 &nbsp; <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> AJAX, JQUERY
