@@ -28,7 +28,7 @@
 <br/>
 
 <a href="https://github.com/AnthonyCost">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AnthonyCost&theme=radical&show_icons=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AnthonyCost&theme=radical&show_icons=true&hide_border=true" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyCost&theme=radical&layout=compact" />
 </a>
 
