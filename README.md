@@ -40,3 +40,6 @@
 </a>
 
 <br/>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="anthony-costanza-64952820a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/anthony-costanza-64952820a?trk=profile-badge">Anthony Costanza</a></div>
+              
