@@ -1,5 +1,7 @@
 <h2> Hey there! I'm Tony.</h2>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <h3> 👨🏻‍💻 &nbsp;A little about me ...</h3>
 
 - 🌞 &nbsp; Working on my capstone project!
@@ -41,5 +43,6 @@
 
 <br/>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="anthony-costanza-64952820a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/anthony-costanza-64952820a?trk=profile-badge">Anthony Costanza</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="anthony-costanza-64952820a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/anthony-costanza-64952820a?trk=profile-badge">Anthony Costanza</a></div>
+              
               
