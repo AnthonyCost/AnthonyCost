@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;A little about me ...</h3>
 
-- 🌞 &nbsp; Putting the final touches on my capstone project!
+- 🌞 &nbsp; Prepping my capstone project for presentation!
 - 🎓 &nbsp; Currently learning Full Stack @ App Academy.
 - 💼 &nbsp; Currently full time studying @ App Academy.
 - ⛳ &nbsp; I love coding, playing on my switch, listening to nintendo music, golfing, and rolling some d20's.
