@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;A little about me ...</h3>
 
-- 🌞 &nbsp; Prepping for my final day at App Academy!
+- 🌞 &nbsp; Graduating App Academy!
 - 🎓 &nbsp; About to graduate from App Academy.
 - 💼 &nbsp; Currently seeking opprotunities as a Full Stack Software Engineer.
 - ⛳ &nbsp; I love coding, playing on my switch, listening to nintendo music, golfing, and rolling some d20's.
