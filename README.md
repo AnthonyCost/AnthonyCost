@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 
 - 🔧 &nbsp;
- ![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7) <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> Atom
+ ![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7) <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 - 🎨 &nbsp;
  <img src="https://aleen42.github.io/badges/src/photoshop.svg"/> <img src ="https://aleen42.github.io/badges/src/premiere.svg">
 
