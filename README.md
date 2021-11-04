@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;A little about me ...</h3>
 
 - 🎓 &nbsp; App Academy class of March '21.
-- 💼 &nbsp; Currently seeking opprotunities as a Full Stack Software Engineer.
+- 💼 &nbsp; Exciting news to share very soon!
 - ⛳ &nbsp; I love coding, playing on my switch, listening to nintendo music, golfing, and rolling some d20's.
 
 <h3> :dove: &nbsp;Let's Connect: </h3>
