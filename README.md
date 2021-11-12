@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; App Academy class of March '21.
 - 💼 &nbsp; Web and Email Developer @ New York Islanders
-- ⛳ &nbsp; I love coding, playing on my switch, listening to nintendo music, golfing, and rolling some d20's.
+- ⛳ &nbsp; I love coding, playing on my switch, watching hockey, listening to nintendo music, golfing, and rolling some d20's.
 
 <h3> :dove: &nbsp;Let's Connect: </h3>
 
