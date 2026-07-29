@@ -11,8 +11,7 @@
 <p align="center">
 <a href="https://anthonycost.github.io/portfolio//"><img alt="Website" src="https://img.shields.io/badge/My-Portfolio-Crimson?"></a>
 <a href="https://www.linkedin.com/in/anthony-costanza-64952820a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anthony Costanza-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://angel.co/u/anthony-costanza-1"><img alt="Angellist" src="https://img.shields.io/badge/AngelList-Anthony%20Costanza-crimson"></a>
-  <a href="https://github.com/AnthonyCost"><img alt="GitHub" src="https://img.shields.io/github/followers/AnthonyCost.svg?style=social&label=Follow&maxAge=2592000"></a>
+<a href="https://github.com/AnthonyCost"><img alt="GitHub" src="https://img.shields.io/github/followers/AnthonyCost.svg?style=social&label=Follow&maxAge=2592000"></a>
 </p>	
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -27,8 +26,7 @@
 
 - 🔧 &nbsp;
  ![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7) <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-- 🎨 &nbsp;
- <img src="https://aleen42.github.io/badges/src/photoshop.svg"/>
+- 🎨 &nbsp; <img src="https://aleen42.github.io/badges/src/photoshop.svg"/>
 
 
 <br/>
