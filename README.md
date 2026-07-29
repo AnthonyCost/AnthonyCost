@@ -37,8 +37,9 @@
 
 </a>
 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AnthonyCost&theme=radical&show_icons=true&hide_border=true&count_private=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyCost&theme=radical&layout=compact&hide_border=true&count_private=true" />
+  <img height="200em"  src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=AnthonyCost&theme=catppuccin_mocha&show_icons=true" alt="Stats" />
+  
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=AnthonyCost&theme=catppuccin_mocha&layout=compact" alt="Top Languages" />
 
 <br/>
                      
