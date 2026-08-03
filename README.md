@@ -35,9 +35,5 @@
 
 </a>
 
-  <img height="200em"  src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=AnthonyCost&theme=catppuccin_mocha&show_icons=true" alt="Stats" />
-  
-  <img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=AnthonyCost&theme=catppuccin_mocha&layout=compact" alt="Top Languages" />
-
-<br/>
+<br/
                      
