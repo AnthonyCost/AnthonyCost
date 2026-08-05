@@ -16,53 +16,39 @@
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
-<h3 align=center>Progamming</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ruby&perline=3" />
-  </a>
-</p>
 
-<h3 align=center>Front-End</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,react,markdown,jquery&perline=3"/>
-    <!-- also AJAX --->
-  </a>
-</p>
-
-<h3 align=center>Back-End</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,express,jest,npm,redux,flask,sql&perline=3"/>
-    <!-- also SQL Server, Jinja, and SQL Alchemy --->
-  </a>
-</p>
-
-<h3 align=center>Platforms</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,postman&perline=3"/>
-    <!-- also Heroku --->
-  </a>
-</p>
-
-<h3 align=center>Environment</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,ubuntu&perline=3" />
-  </a>
-</p>
-
-
-<h3 align=center>Other Skills</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps&perline=3" />
-  </a>
-</p>
-
-
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <h3>Programming</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ruby&perline=3" /></a>
+    </td>
+    <td align="center">
+      <h3>Front-End</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,react,markdown,jquery&perline=3"/><br><!-- also AJAX --></a>
+    </td>
+    <td align="center">
+      <h3>Back-End</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,express,jest,npm,redux,flask,sql&perline=3"/><br><!-- also SQL Server, Jinja, and SQL Alchemy --></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>Platforms</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,postman&perline=3"/><br><!-- also Heroku --></a>
+    </td>
+    <td align="center">
+      <h3>Environment</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,ubuntu&perline=3" /></a>
+    </td>
+    <td align="center">
+      <h3>Other Skills</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ps&perline=3" /></a>
+    </td>
+  </tr>
+</table>
+</div>
 
 
 <!--
