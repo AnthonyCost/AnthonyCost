@@ -16,7 +16,7 @@
 <h2> 🤝 &nbsp;Let's Connect: </h2>
 
 <p align="center">
-<a href="https://anthonycost.github.io/portfolio//"><img alt="Website" src="https://img.shields.io/badge/My-Portfolio-Crimson?"></a>
+<a href="https://anthonycostanza.dev/"><img alt="Website" src="https://img.shields.io/badge/My-Portfolio-Crimson?"></a>
 <a href="https://www.linkedin.com/in/anthony-costanza-64952820a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anthony Costanza-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://github.com/AnthonyCost"><img alt="GitHub" src="https://img.shields.io/github/followers/AnthonyCost.svg?style=social&label=Follow&maxAge=2592000"></a>
 </p>
