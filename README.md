@@ -16,38 +16,9 @@
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <h3>Programming</h3>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ruby&perline=3" /></a>
-    </td>
-    <td align="center">
-      <h3>Front-End</h3>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,react,markdown,jquery&perline=3"/><br><!-- also AJAX --></a>
-    </td>
-    <td align="center">
-      <h3>Back-End</h3>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,express,jest,npm,redux,flask,sql&perline=3"/><br><!-- also SQL Server, Jinja, and SQL Alchemy --></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>Platforms</h3>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,postman&perline=3"/><br><!-- also Heroku --></a>
-    </td>
-    <td align="center">
-      <h3>Environment</h3>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,ubuntu&perline=3" /></a>
-    </td>
-    <td align="center">
-      <h3>Other Skills</h3>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ps&perline=3" /></a>
-    </td>
-  </tr>
-</table>
+| Programming | Front-End | Back-End | Platforms | Environment | Other Skills |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ruby&perline=3" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,react,markdown,jquery&perline=3"/><!-- also AJAX --></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,express,jest,npm,redux,flask,sql&perline=3"/><!-- also SQL Server, Jinja, and SQL Alchemy --></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,postman&perline=3"/><!-- also Heroku --></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,ubuntu&perline=3" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ps&perline=3" /></a> |
 </div>
 
 
