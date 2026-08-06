@@ -10,30 +10,13 @@
 
 <div align="center">
 
-| Programming |
-| :---: |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ruby&perline=1" /></a> |
+| Programming | Front-End | Back-End |
+| :---: | :---: | :---: |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ruby&perline=1" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,react,redux,markdown,jquery&perline=3"/><!-- also AJAX --></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,express,jest,npm,redux,flask,sequelize&perline=3"/><!-- also SQL Server, Jinja, and SQL Alchemy --></a> |
 
-| Front-End |
-| :---: |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,react,redux,markdown,jquery&perline=3"/><!-- also AJAX --></a> |
-
-| Back-End |
-| :---: |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,express,jest,npm,redux,flask,sequelize&perline=3"/><!-- also SQL Server, Jinja, and SQL Alchemy --></a> |
-
-
-| Platforms |
-| :---: |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,postman,aws&perline=2"/><!-- also Heroku --></a> |
-
-| Environment |
-| :---: |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,ubuntu&perline=1" /></a> |
-
-| Other Skills |
-| :---: |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ps&perline=1" /></a> |
+| Platforms | Environment | Other Skills |
+| :---: | :---: | :---: |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,postman,aws&perline=3"/><!-- also Heroku --></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,ubuntu&perline=3" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ps&perline=3" /></a> |
 
 
 <h2> 🤝 &nbsp;Let's Connect: </h2>
