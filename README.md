@@ -1,6 +1,6 @@
 <h1> Hey there! I'm Tony.</h1>
 
-<h2> 👨🏻‍💻 &nbsp;A little about me ...</h2>
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 🎓 &nbsp; App Academy class of March '21.
 - 💼 &nbsp; Software Developer @ New York Islanders
@@ -18,16 +18,15 @@
 | :---: | :---: | :---: |
 | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,postman,aws&perline=3"/><!-- also Heroku --></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,ubuntu&perline=3" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ps&perline=3" /></a> |
 
+</div>
 
-<h2> 🤝 &nbsp;Let's Connect: </h2>
+<h2> 🤝 &nbsp;Let's Connect</h2>
 
 <p align="center">
 <a href="https://anthonycostanza.dev/"><img alt="Website" src="https://img.shields.io/badge/My-Portfolio-Crimson?"></a>
 <a href="https://www.linkedin.com/in/anthony-costanza-64952820a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anthony Costanza-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://github.com/AnthonyCost"><img alt="GitHub" src="https://img.shields.io/github/followers/AnthonyCost.svg?style=social&label=Follow&maxAge=2592000"></a>
 </p>
-
-</div>
 
 <!-- Old ReadMe below
 
