@@ -1,6 +1,6 @@
 <h1> Hey there! I'm Tony.</h1>
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+<h2> 👨🏻‍💻 &nbsp;About Me</h2>
 
 - 🎓 &nbsp; App Academy class of March '21.
 - 💼 &nbsp; Software Developer @ New York Islanders
