@@ -1,12 +1,12 @@
 <h1> Hey there! I'm Tony.</h1>
 
-<h2> 👨🏻‍💻 &nbsp;About Me</h2>
+<h2> 👨🏻‍💻&nbsp;About Me</h2>
 
 - 🎓 &nbsp; App Academy class of March '21.
 - 💼 &nbsp; Software Developer @ New York Islanders
 - ⛳ &nbsp; I love coding, playing on my switch, watching hockey, listening to nintendo music, golfing, and rolling some d20's.
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
+<h2> 🛠&nbsp;Tech Stack</h2>
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 
 </div>
 
-<h2> 🤝 &nbsp;Let's Connect</h2>
+<h2> 🤝&nbsp;Let's Connect</h2>
 
 <p align="center">
 <a href="https://anthonycostanza.dev/"><img alt="Website" src="https://img.shields.io/badge/My-Portfolio-Crimson?"></a>
