@@ -12,7 +12,7 @@
 
 | Programming | Front-End | Back-End |
 | :---: | :---: | :---: |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ruby&perline=1" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,react,redux,markdown,jquery&perline=3"/><!-- also AJAX --></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,express,jest,npm,redux,flask,sequelize&perline=3"/><!-- also SQL Server, Jinja, and SQL Alchemy --></a> |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ruby&perline=1" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,react,redux,markdown,jquery&perline=3"/><!-- also AJAX --></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,express,jest,npm,flask,sequelize&perline=3"/><!-- also SQL Server, Jinja, and SQL Alchemy --></a> |
 
 | Platforms | Environment | Other Skills |
 | :---: | :---: | :---: |
